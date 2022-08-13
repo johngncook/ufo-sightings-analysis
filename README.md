@@ -1,7 +1,7 @@
 # UFO Sightings Analysis
 Comparing United States UFO sightings before and after the start of the Covid-19 pandemic.
 
-the full report can be accessed on UFO_Anlysis_Full_Report.pdf in the repository and the jupyter notebook containing the code that powered the analysis is named UFO_Analysis.ipynb also contained in the main directory. 
+the full report can be accessed on UFO_Analysis_Full_Report.pdf in the repository and the jupyter notebook containing the code that powered the analysis is named UFO_Analysis.ipynb also contained in the main directory. 
 
 The python notebook includes the script in the beggining used to webscrape the data from the National UFO reporting center data base at https://nuforc.org/webreports/ndxevent.html. The script takes a very long time so it is recomonded to skip this step, comment out the code and use the data file csv contained in the directory of this repository.
 
